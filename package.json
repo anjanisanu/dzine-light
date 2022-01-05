@@ -1,6 +1,6 @@
 {
   "name": "@anjanisanu/dzine-light",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/anjanisanu"
   },
@@ -8,8 +8,7 @@
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
-    "dist",
-    "src"
+    "dist"
   ],
   "types": "dist/index.d.ts",
   "scripts": {
